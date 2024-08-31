@@ -1,4 +1,0 @@
-telebot
-flask
-aiogram
-pip install -r requirement.txt
